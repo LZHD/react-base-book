@@ -4,9 +4,9 @@
 
 作者：[胡子大哈](https://www.zhihu.com/people/hu-zi-da-ha)
 
-原文链接：[http://huziketang.com/books/react/](http://huziketang.com/books/react/)
+原文链接：[https://github.com/huzidaha/react-naive-book](https://github.com/huzidaha/react-naive-book)
 
-特此申明所有文章归原作者所有
+特此申明所有文章版权归原作者所有
 
 ## 简介
 这是一本关于 React.js 的小书。
